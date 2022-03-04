@@ -1,4 +1,4 @@
-### Shopping Application (Angular with SpringBoot Web Services)
+### Shopping Application (Angular with SpringBoot Web Services) ###
 ---------
 E-Commerce application developed for performing Admin and Customer user role operations with respective user interfaces. Application is implemented in two parts:
 1. RESTfull web services: API's build using spring boot are used for handling all the back end operations which includes session management using encrypted JWT Tokens 
